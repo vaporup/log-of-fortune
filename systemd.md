@@ -1,6 +1,8 @@
 
 # systemd v250
 
+- with Ubuntu >= 22.04
+
 ```
 * systemd-nspawn's --bind=/--bind-ro= switches now optionally take
   uidmap/nouidmap options as last parameter. If "uidmap" is used the
@@ -45,6 +47,7 @@
 ```
 
 # systemd v249   
+- with Ubuntu >= 22.04
 
 ```
 * systemd-nspawn gained a new switch --bind-user= for binding a host
