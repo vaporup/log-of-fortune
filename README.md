@@ -6,3 +6,8 @@
   - https://blog.dbrgn.ch/2021/11/16/git-ssh-signatures/
   - with OpenSSH 8.8
   - with Ubuntu >= 22.04
+
+## Tailing files on remote hosts
+  - https://lnav.org/2021/05/03/tailing-remote-files.html
+  - with lnav 0.10.0+
+  - with Ubuntu >= 22.04
