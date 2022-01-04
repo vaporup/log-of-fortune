@@ -4,7 +4,7 @@
 
 ## Signing Git Commits with SSH Keys
   - https://blog.dbrgn.ch/2021/11/16/git-ssh-signatures/
-  - with OpenSSH 8.8
+  - with OpenSSH 8.8 + Git 2.34.0
   - with Ubuntu >= 22.04
 
 ## Tailing files on remote hosts
