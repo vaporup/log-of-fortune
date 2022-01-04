@@ -12,7 +12,7 @@
   - with lnav 0.10.0+
   - with Ubuntu >= 22.04
 
-## Age : the modern alternative to GPG
+## Age: the modern alternative to GPG
   - https://nixfaq.org/2021/01/age-the-modern-alternative-to-gpg.html
   - with Ubuntu >= 21.04
   - with Ubuntu >= 22.04 (stable)
