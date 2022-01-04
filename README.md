@@ -1,3 +1,3 @@
 # Log of Fortune
 
-![](logo.jpg)
+[![](logo-small.jpg)](logo.jpg)
