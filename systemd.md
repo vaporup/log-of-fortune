@@ -19,15 +19,6 @@
   monotonic clock even without RTC hardware and with some robustness
   against abnormal system shutdown.
   
-* A new setting DefaultOOMScoreAdjust= is now supported in
-  /etc/systemd/system.conf + /etc/systemd/user.conf that may be used to
-  set the default process OOM score adjustment value for processes
-  forked off the service manager. For per-user service managers this
-  now defaults to 100, but for per-system service managers is left as
-  is. This means that by default now services forked off the user
-  service manager are more likely to be killed by the OOM killer than
-  system services or the managers themselves.
-  
 * Support for encrypted and authenticated credentials has been added.
   This extends the credential logic introduced with v247 to support
   non-interactive symmetric encryption and authentication, based on a
