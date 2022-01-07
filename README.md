@@ -2,6 +2,10 @@
 
 [![](logo-small.jpg)](logo.jpg)
 
+## doas: A Minimalistic Alternative to sudo
+  - https://www.makeuseof.com/how-to-install-and-use-doas/
+  - with Ubuntu >= 21.04
+
 ## Signing Git Commits with SSH Keys
   - https://blog.dbrgn.ch/2021/11/16/git-ssh-signatures/
   - with OpenSSH 8.8 + Git 2.34.0 (Ubuntu >= 22.04)
