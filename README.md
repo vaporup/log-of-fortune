@@ -2,6 +2,10 @@
 
 [![](logo-small.jpg)](logo.jpg)
 
+## Network-Manager with Wireguard Support
+  - <https://linuxnews.de/2022/01/networkmanager-1-34-mit-verbesserter-wireguard-unterstuezung/>
+  - currently only with Debian Sid
+
 ## doas: A Minimalistic Alternative to sudo
   - https://www.makeuseof.com/how-to-install-and-use-doas/
   - with Ubuntu >= 21.04
