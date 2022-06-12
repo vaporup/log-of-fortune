@@ -1,5 +1,5 @@
-<h1 align="center"><code>Log of Fortune</code></h1>
-<p align="center">Upcoming stuff</p>
+<h1 align="left"><code>Log of Fortune</code></h1>
+<p align="left">Upcoming stuff</p>
 
 [![](logo-small.jpg)](logo.jpg)
 
