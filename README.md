@@ -21,4 +21,3 @@
 ## Age: the modern alternative to GPG
   - https://nixfaq.org/2021/01/age-the-modern-alternative-to-gpg.html
   - with Ubuntu >= 21.04, >= 22.04 (first stable release)
-
